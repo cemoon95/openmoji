@@ -8,9 +8,9 @@
  </g>
  <g id="color">
   <rect x="12" y="12" width="48" height="47.83" fill="#92d3f5"/>
-  <path d="m31.37 40.9c0.436 1.891 2.322 3.31 4.582 3.31 2.583 0 4.677-1.855 4.677-4.146 0-2.289-2.094-4.146-4.677-4.146 2.583 0 4.677-1.855 4.677-4.146 0-2.289-2.094-4.146-4.677-4.146-2.26 0-4.146 1.424-4.582 3.312" clip-rule="evenodd" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.739px"/>
  </g>
- <g id="line">
-  <rect x="12" y="12" width="48" height="48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <g id="line" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m31.37 40.9c0.436 1.891 2.322 3.31 4.582 3.31 2.583 0 4.677-1.855 4.677-4.146 0-2.289-2.094-4.146-4.677-4.146 2.583 0 4.677-1.855 4.677-4.146 0-2.289-2.094-4.146-4.677-4.146-2.26 0-4.146 1.424-4.582 3.312" clip-rule="evenodd" stroke-miterlimit="10" stroke-width="4.739px"/>
+  <rect x="12" y="12" width="48" height="48" stroke-width="2"/>
  </g>
 </svg>
